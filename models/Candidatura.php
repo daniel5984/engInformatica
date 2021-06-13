@@ -51,7 +51,7 @@ class Candidatura extends \yii\db\ActiveRecord
             'jobs' => 'Jobs',
             'specialization' => 'Specialization',
             'languages' => 'Languages',
-            'candidato_id' => 'candidato.nome (FK)',
+            'candidato_id' => 'candidato_id (FK)',
         ];
     }
 

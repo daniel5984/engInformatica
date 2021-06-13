@@ -47,7 +47,7 @@ class EncomendaVenda extends \yii\db\ActiveRecord
         return [
             'id' => 'ID',
             'cliente_id' => 'cliente.nome (FK)',
-            'lote_id' => 'lote.tamanho (FK)',
+            'lote_id' => 'lote_id (FK)',
             'quantidade_tipo' => 'Quantidade Tipo',
         ];
     }

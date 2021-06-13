@@ -22,7 +22,7 @@ $this->title = 'My Yii Application';
       <p></p>
         <a class="btn btn-lg btn-success" href="http://localhost:8080/index.php/lote/index">Mostrar os lotes </a>
         <a class="btn btn-lg btn-success" href="http://localhost:8080/index.php/armazem/index">Mostrar os armazens </a>
-        <a class="btn btn-lg btn-success" href="http://localhost:8080/index.php/encomenda-venda/index">Mostrar os encomendas </a>
+        <a class="btn btn-lg btn-success" href="http://localhost:8080/index.php/encomenda-venda/index">Mostrar as encomendas </a>
         <?php } ?>
 
 

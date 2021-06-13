@@ -43,7 +43,7 @@ class CandidaturaFuncionario extends \yii\db\ActiveRecord
         return [
             'id' => 'ID',
             'isAprovado' => 'Is Aprovado',
-            'candidatura_id' => 'Candidatura (FK)',
+            'candidatura_id' => 'Candidatura_id (FK)',
         ];
     }
 
